@@ -1,0 +1,11 @@
+# Cloud ETL Pipeline – AWS Project
+
+📂 S3 → Glue → Athena → Power BI end-to-end pipeline.
+
+## AWS Services Used:
+✅ S3, Glue, Athena, IAM, CloudWatch, Power BI.
+
+## Goal:
+Showcase Data Cleaning, ETL and Real-Time Reporting via AWS.
+
+---
